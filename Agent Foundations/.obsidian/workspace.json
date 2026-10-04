@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task 3 - Basic Python LLM Workflow.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task 3 - Basic Python LLM Workflow"
+              "title": "Glossary"
             }
           }
         ],
@@ -233,9 +233,9 @@
   },
   "active": "0353c63c21fd13b8",
   "lastOpenFiles": [
-    "Task 2 - Understanding AI Agents and Framework Choices.md",
+    "Introduction.md",
     "Task 3 - Basic Python LLM Workflow.md",
-    "Important Concepts.md",
-    "Introduction.md"
+    "Task 2 - Understanding AI Agents and Framework Choices.md",
+    "Glossary.md"
   ]
 }
